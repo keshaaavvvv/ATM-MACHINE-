@@ -8,7 +8,7 @@ A desktop-based ATM simulation built in Java using Swing. This project demonstra
 
 🧾 View full transaction history with timestamps
 
-💖 Personalized greeting for Sukriti Sinha
+💖 Personalized greeting for users
 
 🎨 Clean, responsive UI built with Java Swing
 
